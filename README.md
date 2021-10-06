@@ -1,4 +1,4 @@
-# Instalacion del IDE IntelliJ IDEA
+# Instalación del IDE IntelliJ IDEA
 
 ![image](https://user-images.githubusercontent.com/91153605/136285976-e85fbe6f-3332-4ec3-985e-961dc0121c91.png)
 

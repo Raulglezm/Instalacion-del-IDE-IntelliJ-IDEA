@@ -13,7 +13,8 @@ Para instalar Intelij debemos tener instalado java, para comprobalo usaremos el 
 ```bash
 java -version
 ```
-![1](https://user-images.githubusercontent.com/91153605/136286611-2c10fbe1-5a53-4bb0-9465-00b5dd615986.PNG)
+![1 (2)](https://user-images.githubusercontent.com/91153605/136287065-f30433d0-a651-45ac-b007-16e755afa5f3.PNG)
+
 
 ### 2. Instalación
 
@@ -22,7 +23,8 @@ Ahora instalaremos el paquete snap de intellij:
 ```bash 
 sudo snap install intellij-idea-community --classic
 ```
-![2](https://user-images.githubusercontent.com/91153605/136286672-4f9c1f58-57d0-4b5d-ab73-d072ecd1d9d9.PNG)
+
+![2 (2)](https://user-images.githubusercontent.com/91153605/136287071-9549b7e3-1440-4ef2-867a-2d626e626ff6.PNG)
 
 ### 3. Abrir Intellij
 

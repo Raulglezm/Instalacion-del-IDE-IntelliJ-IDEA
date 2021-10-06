@@ -28,7 +28,7 @@ sudo snap install intellij-idea-community --classic
 
 ### 3. Abrir Intellij
 
-Por último abriremos Intellij desde aplicaciones, para así comprobar que se ha instalado correctamente.
+Por último, abriremos Intellij desde aplicaciones, para así comprobar que se ha instalado correctamente.
 
 ![3](https://user-images.githubusercontent.com/91153605/136286894-294f850c-b8b4-4268-a814-32dafdb74b09.PNG)
 
